@@ -1,0 +1,38 @@
+.tabla-de-datos {
+
+  background-color: #f8f8f8;
+  border-radius: 10px;
+  width : 1750px;
+ 
+ 
+}
+  
+  .tabla-de-datos th, .tabla-de-datos td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    width: 12%;
+  }
+  
+  .tabla-de-datos th {
+    padding: 8px;
+    background-color: #167c66;
+    color: white;
+
+  }
+  
+  .tabla-de-datos input[type="text"], .tabla-de-datos button {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+   
+  }
+  
+  .tabla-de-datos button {
+    padding: 8px;
+    background-color: #167c66;
+    color: white;
+    cursor: pointer;
+  }
+  
+
